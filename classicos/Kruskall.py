@@ -17,7 +17,7 @@ class Caminho():
         self.pontoB = pontoB
         self.distancia = pontoA.distancia(pontoB)
 
-a = Ponto('a',1,1)
+a = Ponto('a',0,1)
 b = Ponto('b',3,2)
 c = Ponto('c',4,5)
 d = Ponto('d',10,5)
@@ -30,7 +30,7 @@ caminhos = []
 for ponto in pontos:
     for p in pontos:
         cam =Caminho(ponto, p)
-        if cam.distancia != 0.0:
+        if cam.pontoA != cam.pontoB:
             caminhos.append(cam)
 
 caminhos_ordenados = sorted(caminhos,key = lambda caminho: caminho.distancia)
@@ -43,7 +43,7 @@ for cam in caminhos_ordenados:
             kruskal.append(cam)
             pontos_conectados.append(cam.pontoA)
 
-for pontos in pontos_conectados:
-    print(pontos.nome)
+#for pontos in pontos_conectados:
+ #   print(pontos.nome)
 for element in kruskal:
     print("O ponto {} está conectado ao {} pela distancia {}".format(element.pontoA.nome,element.pontoB.nome,element.distancia))
