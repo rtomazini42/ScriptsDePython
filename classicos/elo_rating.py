@@ -26,5 +26,4 @@ for jogador in Jogadores:
             pass
         else:
             p = eloRating(jogador,oponente)
-            if p < 0.5:
-                jogador._elo = jogador._elo + 30
+ 
