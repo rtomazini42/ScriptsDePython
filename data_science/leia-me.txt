@@ -1,0 +1,1 @@
+Aqui são alguns plots feitos com Python Data Science.
