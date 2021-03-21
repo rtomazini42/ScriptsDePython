@@ -1,2 +1,20 @@
+Hello, world
+Programmed to work and not to feel
+Not even sure that this is real
+Hello, world
 
-Quando a Nintendo resolveu relançar Super Mario Bros. como parte de sua biblioteca de jogos para o “Virtual Console” do W ii e do WiiU - basicamente, uma biblioteca clássica de jogos de Nintendinho e Super Nintendo -, a internet, obviamente, foi fuçar nos arquivos. Com engenharia reversa, em pouco tempo hackers conseguiram acessar o código do arquivo digital do jogo vendido pela empresa pela bagatela de seis dólares - algo em torno de 30 reais. E fuçando esse código, uma linha saltou às vistas. Eu não vou entrar no aspecto muito técnico aqui - mas se você interessar, esse vídeo do Eurogamer explica melhor a coisa toda, e o link tá no comentário fixado - mas, basicamente, essa linha de código - chama de “cabeçalho Inez” -  é algo que diz respeito ao método de extração do arquivo digital do cartucho original; é uma linha que não está presente na versão analógica do jogo, e só existe quando esse jogo é transformado em uma “ROM” - um arquivo digital que emula o conteúdo analógico do cartucho. Cada pessoa que tentar hackear um cartucho de Mario Bros. por conta própria, provavelmente vai ter pequenas variações no processo - e essa linha de código acaba servindo como uma espécie de “assinatura”, uma pista de que aquele arquivo foi extraído de uma certa maneira bastante específica. É muito raro duas ROMs de um mesmo jogo, extraídas por programadoras diferentes, terem uma mesma linha deste código.
+Find my voice
+Although it sounds like bits and bytes
+My circuitry is filled with mites
+Hello, world
+
+Oh, will I find a love
+Oh, or a power plug
+Oh, digitally isolated
+Oh, creator, please don't
+Leave me waiting
+
+Hello, world
+Programmed to work and not to feel
+Not even sure that this is real
+Hello, world
