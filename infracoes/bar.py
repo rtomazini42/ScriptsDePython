@@ -12,3 +12,6 @@ infracoes.head(10)
 import matplotlib.pyplot as plt
 g = sns.barplot(y ="index",x="descricaoinfracao", data = infracoes.head(10))
 g.figure.savefig('a.jpg', figsize='large')
+
+
+help(g.figure)
